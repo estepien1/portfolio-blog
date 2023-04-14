@@ -9,6 +9,10 @@ about:
     - icon: github
       text: Github
       href: https://github.com/estepien1
+    - text: Resume and Portfolio
+    #add hrefs here
 ---
 
-About this blog
+Hi! I'm Ewelina. I started my data analytics journey in *2022*, when I developed interests in using R to optimise working on my postgraduate statistics assignments.
+
+I particularly enjoy solving [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) challenges to develop my *R proficiency* and recently explored the world of *SQL*.

@@ -2,14 +2,33 @@ project:
   type: website
 
 website:
+  page-navigation: true
   title: "My first blog"
+  site-url: "https://estepienblog.netlify.app/"
+  page-footer:
+    left: "Blog made with [Quarto] (https://quarto.org), by Ewelina Stepien"
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ewelina-stepien-959464257/
+      - icon: github
+        href: https://github.com/estepien1
+      - icon: envelope
+        href: mailto:e.stepien@icloud.com
   navbar:
     right:
       - about.qmd
+      - text: Projects
+        menu: 
+          - text: All posts
+            href: post/index.qmd
+          - text: Resume
+          	#add href here
+      
       - icon: github
         href: https://github.com/
 format:
   html:
+    smooth-scroll: true
     theme: sketchy
     css: styles.css
 

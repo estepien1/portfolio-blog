@@ -10,8 +10,8 @@ Despite having a Bachelor of Science and Master of Science in Psychology, last y
 
 1.  *Optimising workload*
 
-While psychology students are often advised to rely on using IBM SPSS in early stages of their education, many seem confused by this matter (including some of my past coursemates!).
+While psychology students are often advised to rely on using IBM SPSS in early stages of their education, many seem confused by this matter (including some of my course mates!).
 
-#Creative freedom
+<!--#  -->#Creative freedom
 
-#solving problems
+<!--#  -->#solving problems

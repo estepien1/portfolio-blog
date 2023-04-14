@@ -10,7 +10,8 @@ about:
       text: Github
       href: https://github.com/estepien1
     - text: Resume and Portfolio
-    #add hrefs here
+  #add hrefs here
+comments: false
 ---
 
 Hi! I'm Ewelina. I started my data analytics journey in *2022*, when I developed interests in using R to optimise working on my postgraduate statistics assignments.

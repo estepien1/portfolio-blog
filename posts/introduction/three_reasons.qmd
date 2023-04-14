@@ -1,13 +1,17 @@
 ---
 title: "Three reasons for changing career from psychology to data analytics"
+editor_options: 
+  chunk_output_type: console
 ---
 
 Despite having a Bachelor of Science and Master of Science in Psychology, last year I decided to change my career focus from pursuing psychological practice to focus on solving data challenges.
 
-Here are the three **WHY**s:
+**Here are the three WHYs:**
+
+1.  *Optimising workload*
+
+While psychology students are often advised to rely on using IBM SPSS in early stages of their education, many seem confused by this matter (including some of my past coursemates!).
 
 #Creative freedom
 
 #solving problems
-
-\#

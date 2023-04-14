@@ -1,6 +1,6 @@
 ### **Portfolio-blog**
 
-This repository contains the files and code that I have used to build my first \[Quarto\](https://quarto.org/) blog. To make it happen, I used the [guidance](https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/#so-here-comes-quarto) provided by [Beatriz Milz](https://github.com/beatrizmilz) and the following Quarto [documentation](https://quarto.org/docs/websites/website-about.html).
+This repository contains the files and code that I have used to build my first [Quarto](https://quarto.org) blog. To make it happen, I used the [guidance](https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/#so-here-comes-quarto) provided by [Beatriz Milz](https://github.com/beatrizmilz) and the following Quarto [documentation](https://quarto.org/docs/websites/website-about.html). You can access the blog [**here**](https://estepien.netlify.app/).
 
 ------------------------------------------------------------------------
 

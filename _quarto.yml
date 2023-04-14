@@ -4,7 +4,7 @@ project:
 website:
   page-navigation: true
   title: "Ewelina Stepien's blog"
-  site-url: "https://estepienblog.netlify.app/"
+  site-url: "https://estepien.netlify.app/"
   page-footer:
     left: "Blog made with [Quarto] (https://quarto.org), by Ewelina Stepien"
     right:

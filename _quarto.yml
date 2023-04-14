@@ -6,7 +6,7 @@ website:
   title: "Ewelina Stepien's blog"
   site-url: "https://estepien.netlify.app/"
   page-footer:
-    left: "Blog made with [Quarto] (https://quarto.org), by Ewelina Stepien"
+    left: "This blog was built using Quarto (https://quarto.org)."
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/ewelina-stepien-959464257/
@@ -26,7 +26,9 @@ website:
 format:
   html:
     smooth-scroll: true
-    theme: sketchy
+    theme: 
+      light: sketchy
+      dark: darkly
     css: styles.css
 
 editor: visual

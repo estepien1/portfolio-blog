@@ -1,5 +1,5 @@
 ---
-title: "Home page"
+title: "Home"
 listing:
   contents: posts
   sort: "date desc"

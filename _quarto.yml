@@ -3,7 +3,7 @@ project:
 
 website:
   page-navigation: true
-  title: "My first blog"
+  title: "Ewelina Stepien's blog"
   site-url: "https://estepienblog.netlify.app/"
   page-footer:
     left: "Blog made with [Quarto] (https://quarto.org), by Ewelina Stepien"
@@ -23,9 +23,6 @@ website:
             href: post/
           - text: Resume
           	#add href here
-      
-      - icon: github
-        href: https://github.com/
 format:
   html:
     smooth-scroll: true

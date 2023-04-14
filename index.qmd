@@ -1,5 +1,5 @@
 ---
-title: "Ewelina Stepien"
+title: "Home page"
 listing:
   contents: posts
   sort: "date desc"

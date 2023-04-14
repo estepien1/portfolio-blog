@@ -20,7 +20,7 @@ website:
       - text: Projects
         menu: 
           - text: All posts
-            href: post/index.qmd
+            href: post/
           - text: Resume
           	#add href here
       
@@ -34,3 +34,6 @@ format:
 
 editor: visual
 
+comments:
+  giscus:
+    repo: estepien1/portfolio-blog

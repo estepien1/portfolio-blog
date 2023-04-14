@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Portfolio-Blog"
+  title: "My first blog"
   navbar:
     right:
       - about.qmd
@@ -12,7 +12,7 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme: cosmo
+    theme: sketchy
     css: styles.css
 
 editor: visual

@@ -5,6 +5,7 @@ website:
   page-navigation: true
   title: "Ewelina Stepien's blog"
   site-url: "https://estepien.netlify.app/"
+  description: "I am a psychologist-turned-data analyst with a passion for making sense of data. This is my blog where I the progress of my data analytics journey."
   page-footer:
     left: "This blog was built using Quarto (https://quarto.org)."
     right:

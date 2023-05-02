@@ -22,7 +22,7 @@ website:
         menu: 
           - text: All posts
             href: post/
-      - text: Dark mode
+  # - text: Dark mode
 format:
   html:
     smooth-scroll: true

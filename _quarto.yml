@@ -5,9 +5,9 @@ website:
   page-navigation: true
   title: "Ewelina Stepien's blog"
   site-url: "https://estepien.netlify.app/"
-  description: "I am a psychologist-turned-data analyst with a passion for making sense of data. This is my blog where I the progress of my data analytics journey."
+  description: "I am a psychologist-turned-data analyst with a passion for making sense of data. This is my blog where I share the progress of my data analytics journey."
   page-footer:
-    left: "This blog was built using Quarto (https://quarto.org)."
+    left: "Built with love and using Quarto (https://quarto.org)."
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/ewelina-stepien-959464257/
@@ -22,8 +22,7 @@ website:
         menu: 
           - text: All posts
             href: post/
-          - text: Resume
-          	#add href here
+      - text: Dark mode
 format:
   html:
     smooth-scroll: true

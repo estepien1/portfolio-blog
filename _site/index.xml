@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Ewelina Stepien&#39;s blog</title>
+<link>https://estepien.netlify.app/index.html</link>
+<atom:link href="https://estepien.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.2.269</generator>
+<lastBuildDate>Sun, 05 Feb 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>My career transition journey</title>
+  <dc:creator>Ewelina Stepien</dc:creator>
+  <link>https://estepien.netlify.app/posts/introduction/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>After reading some blog posts about other people’s transition to data analytics and coding, I thought that it is worth to reflect on my own journey and share it in the first post on this blog.</p>
+<p>Although I officially started to learn coding in R in 2022, my experience with analysing data to tell stories dates back as far as 2017.</p>
+<hr>
+<section id="stepping-into-the-world-of-data-and-statistics" class="level4">
+<h4 class="anchored" data-anchor-id="stepping-into-the-world-of-data-and-statistics">1. Stepping into the world of data and statistics</h4>
+<p>I had always been fascinated with human behaviour, therefore deciding to study psychology was a natural choice for me.</p>
+<p>While completing my undergraduate degree in psychology at the Manchester Metropolitan University, I was a member of research club and learnt the basics of statistics an generating data insights using IBM SPSS. Despite enjoying using this software, I felt that managing larger data set was sometimes difficult and data visualisation rather simple. It was around 2018 when I first heard about R. However, as a person busy with the university schedule and part-time work, I had little time to explore coding further at the time.</p>
+</section>
+<section id="even-more-data-management" class="level4">
+<h4 class="anchored" data-anchor-id="even-more-data-management">2. Even more data management</h4>
+<p>Fast forward to 2020, I completed my undergraduate degree just as the pandemic started and then worked remotely as a student advisor in a financial education company. In this role, I learnt data management using enterprise resource planning software, namely Microsoft Dynamics NAV, and advanced data management using Excel.</p>
+</section>
+<section id="back-in-academia" class="level4">
+<h4 class="anchored" data-anchor-id="back-in-academia">3. Back in academia</h4>
+<p>In 2021, I started a master of science degree in clinical and health psychology at the University of Manchester. As I was completing it on a full-time basis, handling multiple and competing deadlines prompted me to look for ways to make working on my coursework more efficient.</p>
+<p>This motivation led me to learning the basics of LaTeX and VSCode to complete an assignment involving several photos with captions. Shortly after that, while reading about ways to improve data visualisations in scientific reports, I came across creating plots in R using the ggplot2 package. I was surprised about how easy it was to organise and visualise chosen variables using just a few quick commands. Despite using R in a very basic way at that time, I already knew this is something I want to explore more in the future.</p>
+</section>
+<section id="now" class="level4">
+<h4 class="anchored" data-anchor-id="now">4. Now</h4>
+<p>After completing my studies, I decided to purse my passion for telling stories with data. I believe that my two degrees provided me with strong research skills and understanding of statistics, which definitely makes learning coding and data science easier.</p>
+<p>Since graduating from the university in December 2022, I have:</p>
+<ul>
+<li><p><strong>Finished reading the amazing book called ‘R for Data Science (2e)’ by Hadley Wickam and colleagues</strong>. Although I used <a href="https://r4ds.hadley.nz/">the free online resources</a> provided by the authors, I also have a physical copy of the first edition of the book. I found these materials helpful in not only learning about the good habits in coding (such as using <a href="https://style.tidyverse.org/">the tidyverse style guide</a> and importance of leaving comments explaining my thought process) but also making me more confident about handling not very ‘clean’ data.</p></li>
+<li><p><strong>Set up my GitHub account and learnt how to use Git.</strong> Although I had been aware of the existence of GitHub for at least a year now, it wasn’t until winter 2022 when I decided to set my own account there. Although learning to manage and upload my projects from my local to remote directories using Git was difficult in the beginning, now I love to see the progress of my projects (and being able to use Git logs as the time machine if something goes wrong!).</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>career transition</category>
+  <category>psychology</category>
+  <category>self-study</category>
+  <guid>https://estepien.netlify.app/posts/introduction/index.html</guid>
+  <pubDate>Sun, 05 Feb 2023 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

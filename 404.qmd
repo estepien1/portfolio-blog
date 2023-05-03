@@ -1,9 +1,12 @@
 ---
-title: "Oh no, there is nothing here!"
 format: html
 editor: visual
 ---
 
-<center>**404 Page Not Found**</center>
+<!--# Created with Craiyon with prompt "Two confused black cats" -->
 
-<center>Please return to the homepage.</center>
+<center>404 Page Not Found
+
+Please return to the homepage</center>
+
+<center>![](images/404.png)</center>

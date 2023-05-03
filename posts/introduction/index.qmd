@@ -28,8 +28,10 @@ This motivation led me to learning the basics of LaTeX and VSCode to complete an
 
 #### 4. Now
 
-After completing the postgraduate degree in 2022, I decided to purse my passion for telling stories with data over psychological practice. Since December 2022, I have:
+After completing my studies, I decided to purse my passion for telling stories with data. I believe that my two degrees provided me with strong research skills and understanding of statistics, which definitely makes learning coding and data science easier.
 
--   
+Since graduating from the university in December 2022, I have:
 
-I believe that my two degrees provided me with strong understanding of statistics and research skills, which I wish to develop even further in my graduate career.
+-   **Finished reading the amazing book called 'R for Data Science (2e)' by Hadley Wickam and colleagues**. Although I used [the free online resources](https://r4ds.hadley.nz/) provided by the authors, I also have a physical copy of the first edition of the book. I found these materials helpful in not only learning about the good habits in coding (such as using [the tidyverse style guide](https://style.tidyverse.org/) and importance of leaving comments explaining my thought process) but also making me more confident about handling not very 'clean' data.
+
+-   **Set up my GitHub account and learnt how to use Git.** Although I had been aware of the existence of GitHub for at least a year now, it wasn't until winter 2022 when I decided to set my own account there. Although learning how to manage and upload my projects from my local directories using Git was difficult to learn in the beginning...

@@ -4,6 +4,6 @@ format: html
 editor: visual
 ---
 
-### <center>**404 Page Not Found**</center>
+<center>**404 Page Not Found**</center>
 
-Please return to the homepage.
+<center>Please return to the homepage.</center>

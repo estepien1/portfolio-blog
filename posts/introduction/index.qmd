@@ -1,5 +1,8 @@
 ---
 title: "My career transition journey"
+subtitle: "How it started vs. how it's going"
+date: "2023-02-05"
+categories: [career transition, psychology, self-study]
 editor_options: 
   chunk_output_type: console
 ---

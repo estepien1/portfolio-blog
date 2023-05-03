@@ -1,7 +1,10 @@
 ---
 title: "Home"
+subtitle: "My blog about becoming a data analyst"
 listing:
-  contents: posts/
+  feed: true
+  contents: posts
+  date-format: long
   sort: "date desc"
   type: default
   sort-ui: false

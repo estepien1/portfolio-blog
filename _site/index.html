@@ -72,9 +72,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -96,7 +96,7 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
-</head>
+<link rel="alternate" type="application/rss+xml" title="Ewelina Stepien's blog" href="index.xml"></head>
 
 <body class="nav-fixed">
 
@@ -116,21 +116,8 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="./about.html">
- <span class="menu-text">Who am I?</span></a>
+ <span class="menu-text">About me</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Projects</span>
-    </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-projects">    
-        <li>
-    <a class="dropdown-item" href="./post/">
- <span class="dropdown-text">All posts</span></a>
-  </li>  
-    </ul>
-  </li>
-  <li class="dropdown-header">
- <span class="menu-text">Dark mode</span></li>
 </ul>
               <div class="quarto-toggle-container">
                   <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
@@ -145,6 +132,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page">
       <h1 class="title">Home</h1>
+            <p class="subtitle lead">My blog about becoming a data analyst</p>
                       </div>
   </div>
     
@@ -175,14 +163,14 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1683109094287" data-listing-reading-time-sort="2.055">
+<div class="quarto-post image-right" data-index="0" data-categories="career transition,psychology,self-study" data-listing-date-sort="1675555200000" data-listing-file-modified-sort="1683116156033" data-listing-reading-time-sort="2.895">
 <div class="body">
 <a href="./posts/introduction/index.html">
 <h3 class="no-anchor listing-title">
 My career transition journey
 </h3>
 <div class="listing-subtitle">
-
+How it started vs.&nbsp;how it’s going
 </div>
 <div class="listing-description">
 After reading…
@@ -191,6 +179,9 @@ After reading…
 </div>
 <div class="metadata">
 <a href="./posts/introduction/index.html">
+<div class="listing-date">
+February 5, 2023
+</div>
 <div class="listing-author">
 Ewelina Stepien
 </div>

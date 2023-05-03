@@ -5,6 +5,7 @@ website:
   page-navigation: true
   title: "Ewelina Stepien's blog"
   site-url: "https://estepien.netlify.app/"
+  repo-url: https://github.com/estepien1/portfolio-blog
   page-footer:
     left: "Built with love and using Quarto (https://quarto.org)."
     right:
@@ -17,17 +18,17 @@ website:
   navbar:
     right:
       - about.qmd
-      - text: Projects
-        menu: 
-          - text: All posts
-            href: post/
+      # - text: Projects
+      #   menu: 
+      #     - text: All posts
+      #       href: post/
 format:
   html:
-    smooth-scroll: true
     theme: 
-      light: sketchy
+      light: minty
       dark: darkly
     css: styles.css
+    smooth-scroll: true
 
 editor: visual
 

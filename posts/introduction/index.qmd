@@ -7,31 +7,40 @@ editor_options:
   chunk_output_type: console
 ---
 
-After reading some blog posts about other people's transition to data analytics and coding, I thought that it is worth to reflect on my own journey and share it in the first post on this blog.
+After reading some blog posts about other people's transition to data analytics and coding, I thought that it would be a good idea reflect on my own journey and make it the first post on my blog. 
 
-Although I officially started to learn coding in R in 2022, my experience with analysing data to tell stories dates back as far as 2017.
+Although I officially started to learn coding in R in 2022, I have been telling stories using data since 2017.
 
 ------------------------------------------------------------------------
 
-#### 1. Stepping into the world of data and statistics
+#### 1. First steps in data analysis and statistics
 
 I had always been fascinated with human behaviour, therefore deciding to study psychology was a natural choice for me.
 
-While completing my undergraduate degree in psychology at the Manchester Metropolitan University, I was a member of research club and learnt the basics of statistics an generating data insights using IBM SPSS. Despite enjoying using this software, I felt that managing larger data set was sometimes difficult and data visualisation rather simple. It was around 2018 when I first heard about R. However, as a person busy with the university schedule and part-time work, I had little time to explore coding further at the time.
+While completing my undergraduate degree in psychology at the Manchester Metropolitan University, I was a member of a research club within the department and learnt about the basics of statistics and data analysis. Despite enjoying analysing data using IBM SPSS, I felt that managing larger data set was difficult and prepared data visualisations looked rather simple. 
 
-#### 2. Even more data management
+Although I first heard about R and Python around 2018, my busy university schedule and part-time work led me to having little time to explore these topics further. 
 
-Fast forward to 2020, I completed my undergraduate degree just as the pandemic started and then worked remotely as a student advisor in a financial education company. In this role, I learnt data management using enterprise resource planning software, namely Microsoft Dynamics NAV, and advanced data management using Excel.
+#### 2. Data management in a professional setting
+
+I completed my undergraduate degree in 2020 and, as the pandemic class graduate, I decided to focus on gaining work experience before continuing my education. In autumn 2020, I secured a remote role as a student services advisor in a financial education company. In this role, I learnt how to manage personal and financial data using an enterprise resource planning software, namely Microsoft Dynamics NAV, and advanced the skils I already had, such as using Microsoft Excel.
 
 #### 3. Back in academia
 
-In 2021, I started a master of science degree in clinical and health psychology at the University of Manchester. As I was completing it on a full-time basis, handling multiple and competing deadlines prompted me to look for ways to make working on my coursework more efficient.
+Despite enjoying the student advisor role, I decided to continue my education and started a full-time master of science degree in clinical and health psychology at the University of Manchester almost a year later. Handling multiple deadlines made me think about ways to make my coursework preparation more efficient. I was motivated to not only shorten the time I spend on data analysis for reports, but also making its results looking more professional and engaging. 
 
-This motivation led me to learning the basics of LaTeX and VSCode to complete an assignment involving several photos with captions. Shortly after that, while reading about ways to improve data visualisations in scientific reports, I came across creating plots in R using the ggplot2 package. I was surprised about how easy it was to organise and visualise chosen variables using just a few quick commands. Despite using R in a very basic way at that time, I already knew this is something I want to explore more in the future.
+This motivation led me to learning the basics of LaTeX and VSCode to complete a major assignment involving several photos with captions. Using these tools allowed me to easily apply a consistent formatting style to all elements of the report, which made preparing it much more enjoyable and quicker. 
 
-#### 4. Now
+Shortly after submitting it, I came across videos about creating plots in R using the ggplot2 package. I immediately noticed and liked how easy it was to organise and visualise variables using just a few quick commands. After watching several screencasts of Tidy Tuesday data analysis, I decided to finally give it a try myself. 
 
-After completing my studies, I decided to purse my passion for telling stories with data. I believe that my two degrees provided me with strong research skills and understanding of statistics, which definitely makes learning coding and data science easier.
+Although my very first attempts at writing and executing a code were not always successful and sometimes I was overwhelmed by error messages, I also felt extremely proud of myself once I was able to fix the issue and generate my first plot/table (and then the second, then the third...).
+
+
+#### 4. What now?
+
+After completing my postgraduate degree in winter 2022, I decided to fully dedicate my energy and time to pursue a career in data analytics instead of psychological practice. 
+
+Despite re-evaluating my career plans, I still consider my two degrees as invaluable experience. Both courses provided me with strong research skills and statistical knowledge, which definitely makes understanding coding and data science easier. In particular, my masters degree showed me that making sense of data is something I enjoy the most and therefore it is worth pursuing. 
 
 Since graduating from the university in December 2022, I have:
 
